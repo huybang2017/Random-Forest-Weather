@@ -37,9 +37,7 @@ To get started with the project, follow the steps below to set up the environmen
    python -m venv venv
    ```
 
-   ### Activating the Virtual Environment
-
-Once the virtual environment is created, you need to activate it.
+   Once the virtual environment is created, you need to activate it.
 
 - **On Windows**:
 
@@ -55,19 +53,18 @@ Once the virtual environment is created, you need to activate it.
   source venv/bin/activate
   ```
 
-3. **Using the Jupyter Notebook**
-   To install the required packages, run the following command:
+### Installing Dependencies
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+To install the required packages, run the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. **Using the Jupyter Notebook**
 
    Turn on the Jupyter Notebook by running the following command:
 
    ```bash
    jupyter notebook
    ```
-
-```
-
-```
